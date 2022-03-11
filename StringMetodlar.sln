@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMetodlar", "StringMetodlar\StringMetodlar.csproj", "{0AEB2908-5F27-4CF2-854E-EEB6C484C60D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AEB2908-5F27-4CF2-854E-EEB6C484C60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AEB2908-5F27-4CF2-854E-EEB6C484C60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AEB2908-5F27-4CF2-854E-EEB6C484C60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AEB2908-5F27-4CF2-854E-EEB6C484C60D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E505387-883F-4FA2-9A05-A635771C93C5}
+	EndGlobalSection
+EndGlobal
